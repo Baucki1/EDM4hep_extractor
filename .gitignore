@@ -1,0 +1,10 @@
+__pycache__/
+
+logs/
+hit_feature_plots/
+
+clusters.py
+surfaces.csv
+
+*.sh
+*.submit
